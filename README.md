@@ -13,7 +13,10 @@ Actualmente me interesa el **desarrollo de videojuegos con Unreal Engine** y el 
 ### 🛠️ Tecnologías y herramientas
 - **Sistemas Microinformáticos** 🖥️ 
 - **Unreal Engine** (Blueprints & C++)  
-- **Blender** (Modelado & Renderizado)  
+- **Blender** (Modelado & Renderizado)
+
+### 💬 Idiomas
+- Inglés autodidacta (Avanzado)
  
 
 ---
